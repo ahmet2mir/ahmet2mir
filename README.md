@@ -10,4 +10,4 @@ On the off off hours (after work, before geeking) when nobody’s looking:
 * Wasting time on random Wikipedia pages
 * Twitter and RSS
 
-Feel free to [read my blog](http://ahmet2mir.eu/blog), send me [an email](me@ahmet2mir.eu), check my [LinkedIn](https://linkedin.com/in/ahmet2mir) or follow me on [Twitter](https://twitter.com/ahmetalpbalkan).
+Feel free to [read my blog](http://ahmet2mir.eu/blog), send me [an email](mailto:me@ahmet2mir.eu?subject=Hello!), check my [LinkedIn](https://linkedin.com/in/ahmet2mir) or follow me on [Twitter](https://twitter.com/ahmetalpbalkan).
