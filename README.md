@@ -1,6 +1,6 @@
 Hi!
 
-I am , an Open Source consultant (freelance) living in Paris.
+I am *Ahmet Demir*, an Open Source consultant (freelance) living in 🇫🇷.
 
 On the off off hours (after work, before geeking) when nobody’s looking:
 
