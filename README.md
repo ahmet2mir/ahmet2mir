@@ -5,7 +5,7 @@ I am *Ahmet Demir*, an Open Source consultant (freelance) living in 🇫🇷.
 On the off off hours (after work, before geeking) when nobody’s looking:
 
 * I pretend [I’m a photographer](https://www.flickr.com/photos/ahmet2mir/)
-* An arab-persian (student of [Abdollah Kiaie](http://a.kiaie.monsite-orange.fr/page1/index.html))
+* An arab-persian calligrapher (student of [Abdollah Kiaie](http://a.kiaie.monsite-orange.fr/page1/index.html))
 * Love reading historical books
 * Wasting time on random Wikipedia pages
 
